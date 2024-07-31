@@ -1,0 +1,26 @@
+.navbar img{
+    width:40px;
+}
+
+.navbar-brand{
+    margin-left: 200px;
+}
+
+.navbar-nav{
+    margin-right: 200px;
+}
+.navbar-brand span{
+    color: #ffffff;
+    font-size: 24px;
+    text-align: left;
+    font-weight: 500%;
+}
+
+.navbar li{
+    padding-left: 18px;
+    padding-right: 18px;
+}
+
+.navbar .nav-link {
+    color: #ffffff;
+}
