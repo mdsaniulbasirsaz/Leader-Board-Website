@@ -1,5 +1,6 @@
 html, body{
     background-color: #F3F1FF;
+    overflow-x: hidden;
 }
 
 main{
@@ -37,4 +38,8 @@ main{
 
 .player img{
     width: 56px;
+}
+
+.blog img{
+    width: 177px;
 }
