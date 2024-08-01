@@ -43,3 +43,14 @@ main{
 .blog img{
     width: 177px;
 }
+
+.course img{
+    width: 224px;
+}
+
+.course-heading{
+    text-align: left;
+}
+.rating-course .fa-star.checked {
+    color: gold;
+}
