@@ -1,13 +1,24 @@
+html, body{
+    background-color: #F3F1FF;
+}
+
+main{
+    max-width: 870px;
+}
+.top-player{
+    background-color: #FFFFFF ;
+}
 .navbar img{
     width:40px;
 }
 
 .navbar-brand{
-    margin-left: 200px;
+    margin-left: 18px;
+    
 }
 
 .navbar-nav{
-    margin-right: 200px;
+    margin-right: 19px;
 }
 .navbar-brand span{
     color: #ffffff;
@@ -18,9 +29,12 @@
 
 .navbar li{
     padding-left: 18px;
-    padding-right: 18px;
 }
 
 .navbar .nav-link {
     color: #ffffff;
+}
+
+.player img{
+    width: 56px;
 }
